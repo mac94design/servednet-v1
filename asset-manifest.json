@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/servednet-v1/static/css/main.a35012ce.css",
+    "main.css": "/servednet-v1/static/css/main.397c9f9b.css",
     "main.js": "/servednet-v1/static/js/main.c0c702bc.js",
     "static/media/InstrumentSans-Variable.ttf": "/servednet-v1/static/media/InstrumentSans-Variable.5c6b1c98a459092ff67d.ttf",
     "static/media/ClashDisplay.ttf": "/servednet-v1/static/media/ClashDisplay.e7f67b72cbf79f80c9c7.ttf",
@@ -17,11 +17,11 @@
     "static/media/brand-x.svg": "/servednet-v1/static/media/brand-x.5be8dc5d0fe265945ce9b32af812ebda.svg",
     "static/media/brand-telegram.svg": "/servednet-v1/static/media/brand-telegram.6874e79e63301aa2aa0875012836955c.svg",
     "static/media/menu.svg": "/servednet-v1/static/media/menu.317bc50c92894bf177b7.svg",
-    "main.a35012ce.css.map": "/servednet-v1/static/css/main.a35012ce.css.map",
+    "main.397c9f9b.css.map": "/servednet-v1/static/css/main.397c9f9b.css.map",
     "main.c0c702bc.js.map": "/servednet-v1/static/js/main.c0c702bc.js.map"
   },
   "entrypoints": [
-    "static/css/main.a35012ce.css",
+    "static/css/main.397c9f9b.css",
     "static/js/main.c0c702bc.js"
   ]
 }
