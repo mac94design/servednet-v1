@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/servednet-v1/static/css/main.397c9f9b.css",
-    "main.js": "/servednet-v1/static/js/main.c0c702bc.js",
+    "main.css": "/servednet-v1/static/css/main.7d8cccb6.css",
+    "main.js": "/servednet-v1/static/js/main.8d9b3233.js",
     "static/media/InstrumentSans-Variable.ttf": "/servednet-v1/static/media/InstrumentSans-Variable.5c6b1c98a459092ff67d.ttf",
     "static/media/ClashDisplay.ttf": "/servednet-v1/static/media/ClashDisplay.e7f67b72cbf79f80c9c7.ttf",
     "static/media/chaturbate.svg": "/servednet-v1/static/media/chaturbate.65a88475a3306c3527d802b077526178.svg",
@@ -17,11 +17,11 @@
     "static/media/brand-x.svg": "/servednet-v1/static/media/brand-x.5be8dc5d0fe265945ce9b32af812ebda.svg",
     "static/media/brand-telegram.svg": "/servednet-v1/static/media/brand-telegram.6874e79e63301aa2aa0875012836955c.svg",
     "static/media/menu.svg": "/servednet-v1/static/media/menu.317bc50c92894bf177b7.svg",
-    "main.397c9f9b.css.map": "/servednet-v1/static/css/main.397c9f9b.css.map",
-    "main.c0c702bc.js.map": "/servednet-v1/static/js/main.c0c702bc.js.map"
+    "main.7d8cccb6.css.map": "/servednet-v1/static/css/main.7d8cccb6.css.map",
+    "main.8d9b3233.js.map": "/servednet-v1/static/js/main.8d9b3233.js.map"
   },
   "entrypoints": [
-    "static/css/main.397c9f9b.css",
-    "static/js/main.c0c702bc.js"
+    "static/css/main.7d8cccb6.css",
+    "static/js/main.8d9b3233.js"
   ]
 }
