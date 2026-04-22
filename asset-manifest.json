@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/servednet-v1/static/css/main.fce8445f.css",
-    "main.js": "/servednet-v1/static/js/main.e3588bef.js",
+    "main.css": "/servednet-v1/static/css/main.f98e2ff8.css",
+    "main.js": "/servednet-v1/static/js/main.0902f309.js",
     "static/media/InstrumentSans-Variable.ttf": "/servednet-v1/static/media/InstrumentSans-Variable.5c6b1c98a459092ff67d.ttf",
     "static/media/PPEditorialNew-Italic.otf": "/servednet-v1/static/media/PPEditorialNew-Italic.af4cfa74e6e233f04fe4.otf",
     "index.html": "/servednet-v1/index.html",
@@ -10,11 +10,11 @@
     "static/media/brand-x.svg": "/servednet-v1/static/media/brand-x.5be8dc5d0fe265945ce9b32af812ebda.svg",
     "static/media/brand-telegram.svg": "/servednet-v1/static/media/brand-telegram.6874e79e63301aa2aa0875012836955c.svg",
     "static/media/menu.svg": "/servednet-v1/static/media/menu.317bc50c92894bf177b7.svg",
-    "main.fce8445f.css.map": "/servednet-v1/static/css/main.fce8445f.css.map",
-    "main.e3588bef.js.map": "/servednet-v1/static/js/main.e3588bef.js.map"
+    "main.f98e2ff8.css.map": "/servednet-v1/static/css/main.f98e2ff8.css.map",
+    "main.0902f309.js.map": "/servednet-v1/static/js/main.0902f309.js.map"
   },
   "entrypoints": [
-    "static/css/main.fce8445f.css",
-    "static/js/main.e3588bef.js"
+    "static/css/main.f98e2ff8.css",
+    "static/js/main.0902f309.js"
   ]
 }
